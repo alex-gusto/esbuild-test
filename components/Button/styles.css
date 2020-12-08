@@ -1,0 +1,8 @@
+.base-button {
+  padding: 5px 10px;
+  text-align: center;
+  background: tomato;
+  border-radius: 2px;
+  border: none;
+  box-shadow: none;
+}
